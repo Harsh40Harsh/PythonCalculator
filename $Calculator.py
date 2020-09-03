@@ -76,13 +76,6 @@ def ret_msg():
 
 
 
-# Conditional statements for Calculation.
-# sym = input( "Please select any one from the above symbols for the calculation: " )
-# num1 = int (input("Number 1: ") )
-# num2 = int (input("Number 2: ") )
-
-
-
 
 
 operation()
