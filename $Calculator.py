@@ -1,4 +1,4 @@
-"""Calculator function created by Harsh Soni"""
+"""Calculator function created by hash_f(x)"""
 
 # Welcome Message
 import time
@@ -52,7 +52,7 @@ def primenumber():
                 break
             else:
                 print(n," is a Prime Number.")
-                # break
+                break
     else:
         print("Invalid Input")
 
